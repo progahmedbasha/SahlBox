@@ -1,0 +1,1 @@
+<input {{ $attributes->class([])->merge(['type' => 'text', 'class' => 'form-control', 'name' => '#', 'placeholder' => '#', 'value' => '#', 'required' => 'required' ]) }}/>
