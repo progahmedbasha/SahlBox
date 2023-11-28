@@ -1,4 +1,4 @@
-Steps to run the project : 
+Steps to run the project : </br>
 1- git clone the project .
 2- copy env.example and rename it to .env .
 3- set database configration in .env
